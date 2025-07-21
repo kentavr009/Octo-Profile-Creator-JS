@@ -1,6 +1,6 @@
 # Octo Browser Profile Creator (Node.js)
 
-CLI-инструмент на Node.js для пакетного создания профилей в Octo Browser с гибкими настройками.
+CLI-инструмент на Node.js для пакетного создания профилей в антидетект браузере для мультиаккаунтинга через Octo Browser с гибкими настройками и через официальное АПИ.
 
 ![screenshot](https://i.imgur.com/rLz9Ff6.png)
 
